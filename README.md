@@ -14,10 +14,9 @@ As a Computer Science Engineering student focused on Full-Stack Development and 
 
 💼 **Experience:**
 * **Full-Stack Developer & UI Designer Intern | SKIT Jaipur (Jul 2025)**
-During this internship, I gained hands-on experience building full-stack web applications from scratch. I learned how to mix and match different technologies to create complete projects, including:
-**Frontend: Creating responsive, user-friendly layouts with HTML5, CSS3, and JavaScript.
-**Backend & Logic: Building server-side applications and routing using Node.js.
-**Databases: Managing, querying, and storing project data using both relational (SQL) and non-relational (MongoDB) databases.
+* **Frontend: Creating responsive, user-friendly layouts with HTML5, CSS3, and JavaScript.
+* **Backend & Logic: Building server-side applications and routing using Node.js.
+* **Databases: Managing, querying, and storing project data using both relational (SQL) and non-relational (MongoDB) databases.
 <hr />
 
 ### 🚀 Featured Projects
