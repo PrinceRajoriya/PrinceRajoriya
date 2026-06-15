@@ -24,7 +24,7 @@ As a Computer Science Engineering student focused on Full-Stack Development and 
 **Description: Serverless invoice builder featuring automated tax/discount compilers and a live cash flow analytics dashboard.
 **Tech Stack: Vanilla JS (ES6+), Bootstrap v5.3, Cloud Firestore, Firebase Hosting
 
-📊 Customer Analytics & Insights Suite (College Research)
+📊 Data Analytics(college)
 Description: Data-driven models converting raw consumer records into actionable business intelligence.
 Tech Stack: Python, Pandas, Scikit-Learn, Power BI, Matplotlib,
 <hr />
